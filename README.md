@@ -2,7 +2,6 @@
 
 A collections of different Tradingview indicators (and their corresponding trading strategies) and strategiesbuilt in Pinescript V5. All indicators on this repository are up to date, but Tradingview indicators can be behind on updates so please make sure to use the most updated indicator for the most accurate results. Please contact me with suggestions for new indicators/strategies/changes
 
-Check out our newest project: [Alerio](https://github.com/800cherries/Alerio/)
 <br />
 
 ## [Institutional Supply & Demand Zones](https://github.com/800cherries/Tradingview-Indicators/blob/main/indicators/Institutional%20Supply%20%26%20Demand%20Zones)
